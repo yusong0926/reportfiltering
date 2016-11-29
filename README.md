@@ -21,7 +21,7 @@ Space Complexity O(n)
 
 ## How to Run
 
-Copy the input files to data folder. Run ....jar.
+Copy the input files to data folder. In ReportFilter folder, Run java -jar target/report-filter-1.0-SNAPSHOT.jar  
 
 
 ## Dependencies
@@ -36,9 +36,5 @@ A simple Java library for JSON processing, read and write JSON data and full com
 
 Jdom
 Java-based solution for accessing, manipulating, and outputting XML data from Java code. 
-
-
-## Tests
-
 
 
