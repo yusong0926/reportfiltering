@@ -29,12 +29,15 @@ Copy the input files to data folder. In ReportFilter folder, Run java -jar targe
 Java SDK 1.8
 
 Opencsv
+
 A very simple csv parser library for Java. Easy to use to read and write a csv file.
 
 json-simple
+
 A simple Java library for JSON processing, read and write JSON data and full compliance with JSON specification.
 
 Jdom
+
 Java-based solution for accessing, manipulating, and outputting XML data from Java code. 
 
 
